@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nethmal Gunawardhana</h1>
 <h3 align="center">Enthusiastic IT student with a fervor for AI and Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmalgunawardhana&label=Profile%20views&color=0e75b6&style=plastic" alt="nethmalgunawardhana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmalgunawardhana&label=Profile%20views&color=0e75b6&style=plastic" alt="nethmalgunawardhana" /> </p>
 
 - 🎓 I’m currently Undergraduate of **University of Moratuwa, Faculty of IT.**
 
