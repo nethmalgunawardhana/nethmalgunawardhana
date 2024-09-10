@@ -42,5 +42,10 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethmalgunawardhana&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nethmalgunawardhana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethmalgunawardhana&show_icons=true&theme=tokyonight&locale=en" alt="nethmalgunawardhana" /></p>
+<p>
+   <img  align ="left" src="https://streak-stats.demolab.com?user=nethmalgunawardhana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+></p>
+ 
+
 
 
